@@ -30,4 +30,4 @@ Find out more about me & feel free to connect with me here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abach06&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=abach06%2Fabach06&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2Fabach06)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=abach06%2Fabach06&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=abach06%2Fabach06)
